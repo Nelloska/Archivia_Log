@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------------------------------------
+###################################       su 16.01.2022 -  1:30:02      ###################################
+Starting Zipping application RAMI log file 
+Zipping log file older than  1 days  
+Delete log file older than 60 days  
+------------------------------------------------------------------------------------------------------------
+ 
+ 
+##################################          InformationEngine         ##################################
+Folder Application Log : D:\Rami\Log\InformationEngine 
+If already exist InformationEngine_2022-01-15.zip create a copy with time prefix 
+and move the new InformationEngine_2022-01-15.zip in folder D:\Rami\Log\InformationEngine\Old_Log 	
+Zipped log file in InformationEngine_2022-01-15.zip 
+------------------------------------------------------------------------------------------------------------
+##################################          TrainMessagesEngine         ##################################
+Folder Application Log : D:\Rami\Log\TrainMessagesEngine 
+If already exist TrainMessagesEngine_2022-01-15.zip create a copy with time prefix 
+and move the new TrainMessagesEngine_2022-01-15.zip in folder D:\Rami\Log\TrainMessagesEngine\Old_Log 	
+Zipped log file in TrainMessagesEngine_2022-01-15.zip 
+------------------------------------------------------------------------------------------------------------
+##################################          VehicleAnalyzerEngine         ##################################
+Folder Application Log : D:\Rami\Log\VehicleAnalyzerEngine 
+If already exist VehicleAnalyzerEngine_2022-01-15.zip create a copy with time prefix 
+and move the new VehicleAnalyzerEngine_2022-01-15.zip in folder D:\Rami\Log\VehicleAnalyzerEngine\Old_Log 	
+Zipped log file in VehicleAnalyzerEngine_2022-01-15.zip 
+------------------------------------------------------------------------------------------------------------
+##################################          TrainRunningEngine         ##################################
+Folder Application Log : D:\Rami\Log\TrainRunningEngine 
+If already exist TrainRunningEngine_2022-01-15.zip create a copy with time prefix 
+and move the new TrainRunningEngine_2022-01-15.zip in folder D:\Rami\Log\TrainRunningEngine\Old_Log 	
+Zipped log file in TrainRunningEngine_2022-01-15.zip 
+------------------------------------------------------------------------------------------------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       ZIP LOG FINISHED       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
